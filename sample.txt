@@ -1,2 +1,3 @@
 git hands onecho git hands ongit status
 git hands onls -la
+git hands ongit status
